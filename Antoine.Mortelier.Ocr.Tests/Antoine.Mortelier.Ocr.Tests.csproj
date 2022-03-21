@@ -25,13 +25,13 @@
     </ItemGroup>
 
     <ItemGroup>
-      <None Update="Images\Antoine-Mortellier-2.jpg">
+      <None Update="Images\Antoine-Mortelier-2.jpg">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </None>
-      <None Update="Images\Antoine-Mortellier-1.jpg">
+      <None Update="Images\Antoine-Mortelier-1.jpg">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </None>
-      <None Update="Images\Antoine-Mortellier-0.jpg">
+      <None Update="Images\Antoine-Mortelier-0.jpg">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </None>
     </ItemGroup>
